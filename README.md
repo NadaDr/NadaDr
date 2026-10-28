@@ -1,15 +1,96 @@
-# 💫 About Me:
-Computer engineering student interested in <br>Data engineering 
+# 👋 Hi, I'm Nada Dridi
 
+### Computer Engineering Student | Data Science & AI Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadadridi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadadrydi@gmail.com) 
+I'm a computer engineering student at **École Polytechnique Sousse**, interested in Data Science, Artificial Intelligence, and building data-driven solutions to real-world problems.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NadaDr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=NadaDr&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NadaDr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I'm continuously developing my skills in data analysis, machine learning, programming, and database management through hands-on projects and technical learning.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 Engineering Diploma in Software Engineering — In Progress
+- 🧠 Interests: Artificial Intelligence, Machine Learning, Data Science
+- 📊 Focus Areas: Data Analysis, Data Visualization, Predictive Modeling
+- 🗄️ Interested in: Data Engineering, Data Pipelines, Database Systems
+- 📍 Sousse, Tunisia
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/nadadridi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nadadrydi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Data Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+### Machine Learning & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+---
+
+## 📚 Areas of Interest
+
+- **Data Science:** Data cleaning, exploratory data analysis, statistical analysis, and visualization.
+- **Machine Learning:** Supervised learning, predictive modeling, model evaluation, and feature engineering.
+- **Artificial Intelligence:** Intelligent applications and practical AI solutions.
+- **Data Engineering:** SQL, database systems, data ingestion, data processing, and pipeline fundamentals.
+
+---
+
+## 🚀 Featured Projects
+
+<!-- Replace the placeholders with your actual project repositories. -->
+
+<p align="left">
+  <a href="https://github.com/NadaDr">
+    <img src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github" alt="Explore my repositories"/>
+  </a>
+</p>
+
+I'm building my portfolio through practical projects in data analysis, machine learning, and AI. Stay tuned for new projects and experiments.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NadaDr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaDr&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NadaDr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning from data. Building with AI. Creating meaningful solutions.</i>
+</p>
